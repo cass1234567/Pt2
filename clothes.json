@@ -1,0 +1,80 @@
+[
+  {
+    "name": "T-shirts",
+    "description": "Casual and comfortable T-shirts.",
+    "image": "tshirts.jpg",
+    "price": 1500,
+    "category": "Tops"
+  },
+  {
+    "name": "Blouses",
+    "description": "Stylish blouses for formal occasions.",
+    "image": "blouses.jpg",
+    "price": 2500,
+    "category": "Tops"
+  },                      
+  {
+    "name": "Sweaters",
+    "description": "Warm and cozy sweaters.",
+    "image": "sweaters.jpg",
+    "price": 2000,
+    "category": "Tops"
+  },
+  {
+    "name": "Evening Gowns",
+    "description": "Elegant evening gowns.",
+    "image": "evening_gowns.jpg",
+    "price": 5000,
+    "category": "Dresses"
+  },
+  {
+    "name": "Party Dresses",
+    "description": "Stylish party dresses.",
+    "image": "party_dresses.jpg",
+    "price": 3000,
+    "category": "Dresses"
+  },
+  {
+    "name": "Jeans",
+    "description": "Comfortable jeans.",
+    "image": "jeans.jpg",
+    "price": 2000,
+    "category": "Pants & Shorts"
+  },
+  {
+    "name": "Joggers",
+    "description": "Relaxed-fit joggers.",
+    "image": "joggers.jpg",
+    "price": 1800,
+    "category": "Pants & Shorts"
+  },
+  {
+    "name": "Leather Jackets",
+    "description": "Stylish leather jackets.",
+    "image": "leather_jackets.jpg",
+    "price": 4000,
+    "category": "Jackets & Coats"
+  },
+   {
+    "name": "Skirts",
+    "description": "Flattering skirts for elegant looks.",
+    "image": "skirts.jpg",
+    "price" : 1500,
+    "subcategories": [
+      "Mini Skirts",
+      "Maxi Skirts",
+      "Pencil Skirts"
+    ]
+  },
+  {
+    "name": "Jackets & Coats",
+    "description": "Warm and stylish jackets and coats.",
+    "image": "jackets_coats.jpg",
+    "price" : 2000,
+    "subcategories": [
+      "Leather Jackets",
+      "Winter Coats",
+      "Denim Jackets"
+    ]
+  }
+]
